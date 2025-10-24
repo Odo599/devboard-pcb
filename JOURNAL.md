@@ -25,3 +25,10 @@ I've (basically) finished routing the PCB except I haven't finished ironing out 
 ![Screenshot 2025-10-24 at 17.58.29.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--0f7ab7a8961c372bde64850fbbada628868d1008/Screenshot%202025-10-24%20at%2017.58.29.png)
   
 
+## 10/25/2025 - Actually finished routing the PCB  
+
+I've completely finished all traces on the PCB, with a grand total of 614 track segments and 68 vias. In the last devlog I thought I just had some minor errors to fix up but now I know that I actually have to connect all the +3V3 and +1V1 pads on the RP2040. That was annoying since I hadn't accounted for the extra pads necessary but I made it work.
+
+![Screenshot 2025-10-25 at 10.26.57.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMxNywicHVyIjoiYmxvYl9pZCJ9fQ==--7d3edee7d566ecbc87ebbcc3e5f2b54f7a33ab4f/Screenshot%202025-10-25%20at%2010.26.57.png)
+  
+
