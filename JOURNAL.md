@@ -18,3 +18,10 @@ I've been following the devboard guide since this is my first time making a hard
 I've finally finished making my schematic for the devboard, thank goodness for these guides. I don't know how I could've done it without them. I've added the crystal, headers, usbc power and flash memory. I also cleaned up the schematic a bit and made it look nicer.![Screenshot 2025-10-23 at 19.17.14.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f64cfd15924ef1cc85378ac0252823cd89599aa0/Screenshot%202025-10-23%20at%2019.17.14.png)
   
 
+## 10/24/2025 - Routed the PCB  
+
+I've (basically) finished routing the PCB except I haven't finished ironing out all the DRC errors so I'm gonna do that now. It's so interesting to think that I'm done except I still have so many errors to fix (18).
+
+![Screenshot 2025-10-24 at 17.58.29.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--0f7ab7a8961c372bde64850fbbada628868d1008/Screenshot%202025-10-24%20at%2017.58.29.png)
+  
+
